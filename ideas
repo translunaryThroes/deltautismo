@@ -22,3 +22,13 @@
 -   Escena de mykan y taquilla, dice "espabila gayolo"
 -  LanciGalleta se cambia por ChorAlmendr (chorizo de Almendralejo) (En la descripción destacaremos los tres trozos sin pellejo)
 -  ILLOKAARD
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+APUNTES DE LINEAS DEL JSON:
+	-Faltan algnas cuantas de Lancer de 913 en adelante
+	-Descripciones de objetos de 5635 en adelante
+	-Objetos por las lineas de 5684 en adelante (lo iremos haciendo)
+
+*Nota: Hay algunas lineas que se repiten por el final del JSON, habrá que reescribirlas*
