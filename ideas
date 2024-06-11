@@ -7,10 +7,10 @@
 
 
 - TODAS las TARTAS son sustituidas por Kebabs:
-      - Cake --> Kebab
-      - Broken Cake --> Kebab roto
-      - TopCake --> MarianoKebab o MarioKebab      (Top Chef se llama Mario o Mariano, a elegir)
-      - SpinCake --> MenuKebab      (Por lo de curar al equipo y eso)
+      - Tarta --> Kebab
+      - Tarta Rota --> Kebab roto
+      - TartaCopón -->  MenuKebab      (Top Chef se llama Mario o Mariano, a elegir)
+      - SpinCake --> GiroKebab      (Por lo de curar al equipo y eso)
 
 -  King es un cuñao nostalgico, y llama "amariconao" a su hijo, los tesoros del castillo estan formados de pesetas (esta mierda va a tener lore).
 -  Cambiamos el nombre de Susie por Mykan
@@ -25,6 +25,7 @@
 
 __________________________________________________________________________________________________________________________________________________________
 
+Lo he dejado por la linea 990 (a ver si esta vez no tenemos errores por dios)
 
 APUNTES DE LINEAS DEL JSON:
 	-Faltan algnas cuantas de Lancer de 913 en adelante
